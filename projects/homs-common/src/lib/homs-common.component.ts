@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-homs-common',
   template: `
     <p>
-      homs-common works!
+      homs-common updated!
     </p>
   `,
   styles: [
